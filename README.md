@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Luis Banamtuan</h1>
 <h3 align="center">Software Developer | Passionate about Coding, Problem-Solving, and AI</h3>
 
-🌱 **Currently Learning:** Android Development 
+🌱 **Currently Learning:** Android Development  
 💬 **Ask me about:** Kotlin and Android Development  
-📫 **How to reach me:** kevinbanamtuan10@gmail.com  
+📫 **How to reach me:** kevinbanamtuan10@gmail.com
 
 ---
 
